@@ -1,2 +1,1 @@
 # HW1
-$ rm 1072SADHW6-S10655004.doc.pdf
